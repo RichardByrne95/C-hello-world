@@ -51,3 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 .vscode
+main
+.DS_Store
+.gitignore
