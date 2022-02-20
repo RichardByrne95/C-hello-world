@@ -55,3 +55,4 @@ main
 .DS_Store
 .gitignore
 *.exe
+celsius_fahrentheit
